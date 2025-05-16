@@ -1,0 +1,14 @@
+C:\Users\Asus\RiderProjects\async1\async1\obj\Debug\net8.0\async1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\RiderProjects\async1\async1\obj\Debug\net8.0\async1.AssemblyInfoInputs.cache
+C:\Users\Asus\RiderProjects\async1\async1\obj\Debug\net8.0\async1.AssemblyInfo.cs
+C:\Users\Asus\RiderProjects\async1\async1\obj\Debug\net8.0\async1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\async1\async1\bin\Debug\net8.0\async1.exe
+C:\Users\Asus\RiderProjects\async1\async1\bin\Debug\net8.0\async1.deps.json
+C:\Users\Asus\RiderProjects\async1\async1\bin\Debug\net8.0\async1.runtimeconfig.json
+C:\Users\Asus\RiderProjects\async1\async1\bin\Debug\net8.0\async1.dll
+C:\Users\Asus\RiderProjects\async1\async1\bin\Debug\net8.0\async1.pdb
+C:\Users\Asus\RiderProjects\async1\async1\obj\Debug\net8.0\async1.dll
+C:\Users\Asus\RiderProjects\async1\async1\obj\Debug\net8.0\refint\async1.dll
+C:\Users\Asus\RiderProjects\async1\async1\obj\Debug\net8.0\async1.pdb
+C:\Users\Asus\RiderProjects\async1\async1\obj\Debug\net8.0\async1.genruntimeconfig.cache
+C:\Users\Asus\RiderProjects\async1\async1\obj\Debug\net8.0\ref\async1.dll
